@@ -1,6 +1,6 @@
 {
-  "name": "Body Composition Tracker",
-  "short_name": "Body Tracker",
+  "name": "Body Metrics Tracker",
+  "short_name": "Body Metrics",
   "description": "Track your body composition metrics over time",
   "start_url": "./index.html",
   "display": "standalone",
